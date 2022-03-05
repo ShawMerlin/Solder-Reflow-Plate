@@ -1,4 +1,4 @@
-# **Solder Reflow Plate - Forked** #
+# **Solder Reflow Plate - Fork** #
 
 My name is Merlin Shaw and here are the improvements that I would like to add to this amazing Project!!
 
@@ -15,6 +15,7 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 ######
 
 ###### Original Project By AfterEarth Ltd
+https://github.com/AfterEarthLTD/Solder-Reflow-Plate
 
 ## As Seen On GreatScott! 
 
