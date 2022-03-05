@@ -8,6 +8,11 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 
 ![image](https://user-images.githubusercontent.com/70423454/156859470-29f66995-8fcf-46e8-b7ab-7c8fabbd56d9.png)
 
+
+![image](https://user-images.githubusercontent.com/70423454/156860252-3d6115c7-eb23-4805-8299-c08314e605b5.png)
+
+
+
 ######
 
 ###### Original Project By AfterEarth Ltd
@@ -17,9 +22,6 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 This project has recently featured on a DIY or BUY GreatScott! video.
 
 Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy](https://www.youtube.com/watch?v=QarizoUnRfk)
-
-![image](https://user-images.githubusercontent.com/70423454/156860252-3d6115c7-eb23-4805-8299-c08314e605b5.png)
-
 
 ## UPDATE!!!
 
