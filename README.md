@@ -1,6 +1,16 @@
 # **Solder Reflow Plate**
 
-###### By AfterEarth Ltd
+# My name is Merlin Shaw and here are the improvements that I would like to add to this amazing Project!!
+
+- In addition to the Barrel Cannector, adding USB 3 PD at 100 watts for an alternative power source.
+- Changed the MicroController to ATMEGA328PB-MU which is more readily available.
+- Make the Board and Plate different sections so that when the plate wears out, it can be swapped easily.
+
+![image](https://user-images.githubusercontent.com/70423454/156859470-29f66995-8fcf-46e8-b7ab-7c8fabbd56d9.png)
+
+######
+
+###### Original Project By AfterEarth Ltd
 
 ## As Seen On GreatScott! 
 
