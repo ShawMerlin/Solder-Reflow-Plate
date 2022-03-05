@@ -1,6 +1,6 @@
-# **Solder Reflow Plate**
+# **Solder Reflow Plate** #
 
-# My name is Merlin Shaw and here are the improvements that I would like to add to this amazing Project!!
+My name is Merlin Shaw and here are the improvements that I would like to add to this amazing Project!!
 
 - In addition to the Barrel Cannector, adding USB 3 PD at 100 watts for an alternative power source.
 - Changed the MicroController to ATMEGA328PB-MU which is more readily available.
