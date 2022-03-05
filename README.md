@@ -18,6 +18,9 @@ This project has recently featured on a DIY or BUY GreatScott! video.
 
 Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy](https://www.youtube.com/watch?v=QarizoUnRfk)
 
+![image](https://user-images.githubusercontent.com/70423454/156860252-3d6115c7-eb23-4805-8299-c08314e605b5.png)
+
+
 ## UPDATE!!!
 
 Join the [DISCORD!](https://discord.gg/T9dxeRmY)
