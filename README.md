@@ -5,6 +5,7 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 - In addition to the Barrel Cannector, adding USB 3 PD at 100 watts for an alternative power source.
 - Changed the MicroController to ATMEGA328PB-MU which is more readily available.
 - Make the Board and Plate different sections so that when the plate wears out, it can be swapped easily.
+- Boards will be connected through 5mm Nylon bolts/nuts and cinched down to create a strong electrical connection
 
 ![image](https://user-images.githubusercontent.com/70423454/156860385-a794cc8f-eeee-42c9-a5bd-abe8de28e164.png)
 
