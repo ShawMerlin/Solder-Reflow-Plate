@@ -6,8 +6,7 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 - Changed the MicroController to ATMEGA328PB-MU which is more readily available.
 - Make the Board and Plate different sections so that when the plate wears out, it can be swapped easily.
 
-![image](https://user-images.githubusercontent.com/70423454/156859470-29f66995-8fcf-46e8-b7ab-7c8fabbd56d9.png)
-
+![image](https://user-images.githubusercontent.com/70423454/156860385-a794cc8f-eeee-42c9-a5bd-abe8de28e164.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/156860252-3d6115c7-eb23-4805-8299-c08314e605b5.png)
 
