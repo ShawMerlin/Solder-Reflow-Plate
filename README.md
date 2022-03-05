@@ -7,10 +7,9 @@ My name is Merlin Shaw and here are the improvements that I would like to add to
 - Make the Board and Plate different sections so that when the plate wears out, it can be swapped easily.
 - Boards will be connected through 5mm bolts/nuts and cinched down to create a strong electrical connection
 
-![image](https://user-images.githubusercontent.com/70423454/156862275-44658ea2-957e-47c5-9c52-3ba49400db86.png)
+![image](https://user-images.githubusercontent.com/70423454/156862743-689a67fb-d7bb-4195-b4ee-894e393eac92.png)
 
-![image](https://user-images.githubusercontent.com/70423454/156862318-11dcd699-ab6f-4edc-a103-40f9cb3ed935.png)
-
+![image](https://user-images.githubusercontent.com/70423454/156862761-efe9e8ff-ff4d-4644-a5d2-ba62f7df435c.png)
 
 ######
 
