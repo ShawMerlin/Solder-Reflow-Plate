@@ -1,15 +1,18 @@
 # **Solder Reflow Plate - Fork** #
 
-My name is Merlin Shaw and here are the improvements that I would like to add to this amazing Project!!
+My name is Merlin Shaw and here are the improvements that I am adding to this amazing Project!!
 
-- In addition to the Barrel Cannector, adding USB 3 PD at 100 watts for an alternative power source.
-- Changed the MicroController to ATMEGA328PB-MU which is more readily available.
-- Make the Board and Plate different sections so that when the plate wears out, it can be swapped easily.
-- Boards will be connected through 5mm bolts/nuts and cinched down to create a strong electrical connection
+Update 3/5/2022
+- Utilizing the new V3 Circuit Design that AfterEarth just released.
+- USB C PD Circuit added using a IP2721 and a Design by Brian Lough for his PS100 Flex-C-Friend.
+- Created an adapter board that holds all the circuitry.  This can be attached to a base and the Seperate PCB Heat Plate attaches above it.
+- Mounting holes on the adapter and the PCB Heat Plate align so that standoff's can be used to hold up the heat plate
+- Moved the circuitry down so that the OLED can lay flat against the PCB Board.
 
-![image](https://user-images.githubusercontent.com/70423454/156863135-bc8a0837-4af9-4a43-afce-de44c549c3ff.png)
+![image](https://user-images.githubusercontent.com/70423454/156909042-9960be5f-3d0e-4dc7-9a37-1b1913773339.png)
 
-![image](https://user-images.githubusercontent.com/70423454/156863156-1874daf7-8162-4288-a2e6-3c2db3c65249.png)
+![image](https://user-images.githubusercontent.com/70423454/156909184-379395d1-bbc4-404d-af9d-8d8450d88566.png)
+
 
 ######
 
