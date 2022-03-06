@@ -9,7 +9,7 @@ Update 3/5/2022
 - Mounting holes on the adapter and the PCB Heat Plate align so that standoff's can be used to hold up the heat plate
 - Moved the circuitry down so that the OLED can lay flat against the PCB Board.
 
-![image](https://user-images.githubusercontent.com/70423454/156909042-9960be5f-3d0e-4dc7-9a37-1b1913773339.png)
+![image](https://user-images.githubusercontent.com/70423454/156940209-8f9bfcf4-19b1-4c5f-be6c-8bba423427ee.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/156909184-379395d1-bbc4-404d-af9d-8d8450d88566.png)
 
