@@ -3,10 +3,10 @@
 My name is Merlin Shaw and here are the improvements that I am adding to this amazing Project!!
 
 Update 3/5/2022
-- Utilizing the new V3 Circuit Design that AfterEarth just released.
+- Utilizing the new V3 Circuit Design that AfterEarth (Christopher Halsall) just released.
 - USB C PD Circuit added using a IP2721 and a Design by Brian Lough for his PS100 Flex-C-Friend.
 - Created an adapter board that holds all the circuitry.  This can be attached to a base and the Seperate PCB Heat Plate attaches above it.
-- Mounting holes on the adapter and the PCB Heat Plate align so that standoff's can be used to hold up the heat plate
+- Mounting holes on the adapter and the PCB Heat Plate align so that standoff's can be used to hold up the heat plate.
 - Moved the circuitry down so that the OLED can lay flat against the PCB Board.
 
 ![image](https://user-images.githubusercontent.com/70423454/156940209-8f9bfcf4-19b1-4c5f-be6c-8bba423427ee.png)
