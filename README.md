@@ -13,6 +13,11 @@ Update 3/5/2022
 
 ![image](https://user-images.githubusercontent.com/70423454/156909184-379395d1-bbc4-404d-af9d-8d8450d88566.png)
 
+Project #2 with this fun idea is to have a Through-Hole version that is easy to solder and would be a fun kit for beginners.
+I will release the Gerber files for this when I have fully verified that everything works.  :)
+
+![image](https://user-images.githubusercontent.com/70423454/157194705-91da5fb8-3ab0-462c-bb81-247678321556.png)
+
 
 ######
 
